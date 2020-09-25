@@ -1,0 +1,112 @@
+Linux raspberrypi 5.4.51-v7l+ #1333 SMP Mon Aug 10 16:51:40 BST 2020 armv7l GNU/Linux
+3320.05 12146.39
+Character devices:
+  1 mem
+  4 /dev/vc/0
+  4 tty
+  5 /dev/tty
+  5 /dev/console
+  5 /dev/ptmx
+  5 ttyprintk
+  7 vcs
+ 10 misc
+ 13 input
+ 29 fb
+ 81 video4linux
+ 89 i2c
+116 alsa
+128 ptm
+136 pts
+162 raw
+180 usb
+189 usb_device
+204 ttyAMA
+216 rfcomm
+226 drm
+235 cec
+236 media
+237 rpivid-vp9mem
+238 rpivid-h264mem
+239 rpivid-intcmem
+240 rpivid-hevcmem
+241 uio
+242 vcsm
+243 vchiq
+244 hidraw
+245 rpmb
+246 bcm2835-gpiomem
+247 vcio
+248 vc-mem
+249 bsg
+250 watchdog
+251 BaseRemoteCtl
+252 rtc
+253 dma_heap
+254 gpiochip
+
+Block devices:
+  1 ramdisk
+  7 loop
+  8 sd
+ 65 sd
+ 66 sd
+ 67 sd
+ 68 sd
+ 69 sd
+ 70 sd
+ 71 sd
+128 sd
+129 sd
+130 sd
+131 sd
+132 sd
+133 sd
+134 sd
+135 sd
+179 mmc
+259 blkext
+Linux version 5.4.51-v7l+ (dom@buildbot) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611)) #1333 SMP Mon Aug 10 16:51:40 BST 2020
+processor	: 0
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 135.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 1
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 135.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 2
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 135.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 3
+model name	: ARMv7 Processor rev 3 (v7l)
+BogoMIPS	: 135.00
+Features	: half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+Hardware	: BCM2711
+Revision	: b03111
+Serial		: 10000000f5966377
+Model		: Raspberry Pi 4 Model B Rev 1.1
